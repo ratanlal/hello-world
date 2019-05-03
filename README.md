@@ -1,3 +1,4 @@
 # hello-world
 
-hi i am new at git hub 
+this is the first github repo 
+it is just to learn about github 
